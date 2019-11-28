@@ -1,0 +1,14 @@
+.login-form{
+    margin-top: 4cm;
+    margin-left: 10cm;
+   height: 50vh;
+   min-width: 66%;
+}
+
+.card-body{
+    margin-bottom: -3cm;
+}
+
+h2{
+    opacity: .6;
+}
