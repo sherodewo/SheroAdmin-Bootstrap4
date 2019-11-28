@@ -5,6 +5,13 @@
    min-width: 66%;
 }
 
+.register-form{
+    margin-top: 3cm;
+    margin-left: 10cm;
+   height: 72vh;
+   min-width: 66%;
+}
+
 .card-body{
     margin-bottom: -3cm;
 }
